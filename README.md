@@ -1,8 +1,8 @@
 # Ludo - partida para dois jogadores
 
-**Colaborador:** Thiago Gimenes.
+**Colaborador:** Gabriel Galhardone Felipe.
 
-**Identificação acadêmica:** NOME: Thiago Gimenes Santos. RA:24016862-2. TURMA: ESOFT-6S-A.
+**Identificação acadêmica:** NOME: Gabriel Galhardone Felipe. RA:24021292-2. TURMA: ESOFT-6S-B.
 
 ## Especificação do desafio
 
